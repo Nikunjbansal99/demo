@@ -1,1 +1,6 @@
-hello
+git init
+touch file.txt
+git status
+git add file.txt
+git status
+GIT has 3 stages:
